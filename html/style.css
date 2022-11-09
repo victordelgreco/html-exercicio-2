@@ -1,0 +1,71 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+header h1{
+    text-align: center;
+
+}
+
+header h2{
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+body{
+    background-color: rgb(9, 188, 243);
+    margin: 5%;
+}
+main div p{
+    text-align: center;
+}
+.jogo-rpg{
+display: block;
+margin: auto;
+width: 300px;
+}
+
+
+
+.button-more {
+    background-image: linear-gradient( #081372, #1476c7);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+  }
+
+
+
+
+
+ul{
+    text-align: center;
+    padding: 0px;
+
+
+    
+}
+ul li{
+    display: inline;
+    text-align: center;
+    margin: 5px;
+}
+
+
+ul li img{
+
+    text-align: center;
+    width: 50px;
+}
+
+
+div{
+    text-align: center;
+}
